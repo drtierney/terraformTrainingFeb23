@@ -1,0 +1,5 @@
+region          = "eu-west-1"
+ami_id          = "ami-06e0ce9d3339cb039"
+tag_name        = "dt-prod-vm"
+tag_environment = "prod"
+instance_type   = "t2.small"
